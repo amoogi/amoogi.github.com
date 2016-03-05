@@ -1,4 +1,4 @@
-# amoogi.github.com
+# Moogi's URL
 github pages
 
 # git clone
