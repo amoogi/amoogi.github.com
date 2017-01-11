@@ -1,0 +1,8 @@
+title: Amoogi's Arcadia!
+description: github pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
